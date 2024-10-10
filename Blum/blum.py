@@ -1,4 +1,4 @@
-#I am the developer, my name is Youssef 💙🤍
+#I am the developer, my name is Mohsin 💙🤍
 import os
 from os import system as ss
 ll = 'pip install'
@@ -54,7 +54,7 @@ proxy_file = "proxies.txt"
 data_file = "JOO.txt"
 config_file = "config.json"
 
-d = "YOUSEF"
+d = "MOHSIN"
 
 sif = render(f'{d}', colors=['red', 'yellow'], align='center')
 print(sif)
@@ -63,7 +63,7 @@ print("""\033[1;37m
 ╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗                    
 ║\33[0;41m        [ ENTER THE TOOL'S PASSWORD ✅ ]    \033[0;92m║
 ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝              """)
-password = 'YOUSSEF_ELJOO'
+password = 'chut'
 one = str(input('''❖ - 𝐏𝐀𝐒𝐒𝐖𝐑𝐃 :  ''') )
 if one == password:
     print(f"""
@@ -73,7 +73,7 @@ if one == password:
 else:
     exit("""
 𝚃𝚑𝚎 𝚙𝚊𝚜𝚜𝚠𝚘𝚛𝚍 𝚒𝚜 𝚒𝚗𝚌𝚘𝚛𝚛𝚎𝚌𝚝 ❌ 
-𝙿𝚕𝚎𝚊𝚜𝚎 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚝𝚑𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚝𝚘 𝚏𝚒𝚗𝚍 𝚘𝚞𝚝 @𝚈𝙾𝚄𝚂𝚂𝙴𝙵𝚂𝙾𝙱𝙷𝚈𝟷𝟹 ✅""")
+𝙿𝚕𝚎𝚊𝚜𝚎 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚝𝚑𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚝𝚘 𝚏𝚒𝚗𝚍 𝚘𝚞𝚝 @MOIYYSSNN ✅""")
 os.system('clear')
 
 class Config:
