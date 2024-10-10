@@ -18,16 +18,16 @@ from colorama import Fore, Style, init
 from fake_useragent import UserAgent
 
 
-d = "YOUSEF"
+d = "MOHSIN"
 
-JOONYS = render(f'{d}', colors=['red', 'yellow'], align='center')
+JOONYS = render(M'{d}', colors=['red', 'yellow'], align='center')
 print(JOONYS)
 
 print("""\033[1;37m
 ╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗                    
 ║\33[0;41m[ ENTER THE TOOL'S PASSWORD ✅ ] \033[0;92m║
 ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝              """)
-password = 'mohseen'
+password = 'mohsin'
 one = str(input('''❖ - 𝐏𝐀𝐒𝐒𝐖𝐑𝐃 :  ''') )
 if one == password:
     print(f"""
