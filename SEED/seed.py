@@ -20,7 +20,7 @@ from fake_useragent import UserAgent
 
 d = "MOHSIN"
 
-JOONYS = render(M'{d}', colors=['red', 'yellow'], align='center')
+JOONYS = render(m'{d}', colors=['red', 'yellow'], align='center')
 print(JOONYS)
 
 print("""\033[1;37m
