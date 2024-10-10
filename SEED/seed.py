@@ -53,7 +53,7 @@ def art():
 def draw_tree():
     
     print(f"{render('MOHSIN', colors=['red', 'yellow'], align='center')}")
-    top_banner = M"""
+    top_banner = f"""
 \033[93m{"="*50}
 \033[91m************ \033[93mSEED ✅ \033[91m************
 \033[93m{"="*50}\033[0m
