@@ -60,7 +60,7 @@ def draw_tree():
 
 \033[96m{"-"*50}
 \033[92mBuy future scripts \033[97m@moiyyssnn
-\033[92mJoin for update \033[97mhttps://t.me/kingelnet
+\033[92mJoin for update \033[97mhttps://t.me/+k0YDCIQExqxlOWM1
 \033[96m{"-"*50}
 \033[0m"""
     print(top_banner)
