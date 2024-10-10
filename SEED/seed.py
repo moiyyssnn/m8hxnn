@@ -1,4 +1,4 @@
-#I am the developer, my name is Youssef 💙🤍
+#I am the developer, my name is mohsin 💙🤍
 import os
 from os import system as ss
 ll = 'pip install'
@@ -27,7 +27,7 @@ print("""\033[1;37m
 ╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗                    
 ║\33[0;41m[ ENTER THE TOOL'S PASSWORD ✅ ] \033[0;92m║
 ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝              """)
-password = 'YOUSSEF_ELJOO'
+password = 'mohseen'
 one = str(input('''❖ - 𝐏𝐀𝐒𝐒𝐖𝐑𝐃 :  ''') )
 if one == password:
     print(f"""
@@ -37,7 +37,7 @@ if one == password:
 else:
     exit("""
 𝚃𝚑𝚎 𝚙𝚊𝚜𝚜𝚠𝚘𝚛𝚍 𝚒𝚜 𝚒𝚗𝚌𝚘𝚛𝚛𝚎𝚌𝚝 ❌ 
-𝙿𝚕𝚎𝚊𝚜𝚎 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚝𝚑𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚝𝚘 𝚏𝚒𝚗𝚍 𝚘𝚞𝚝 @𝚈𝙾𝚄𝚂𝚂𝙴𝙵𝚂𝙾𝙱𝙷𝚈𝟷𝟹 ✅""")
+𝙿𝚕𝚎𝚊𝚜𝚎 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚝𝚑𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚝𝚘 𝚏𝚒𝚗𝚍 𝚘𝚞𝚝 @moiyyssnn ✅""")
 
 os.system('clear')
 
@@ -52,14 +52,14 @@ def art():
 
 def draw_tree():
     
-    print(f"{render('YOUSEF', colors=['red', 'yellow'], align='center')}")
-    top_banner = f"""
+    print(f"{render('MOHSIN', colors=['red', 'yellow'], align='center')}")
+    top_banner = M"""
 \033[93m{"="*50}
 \033[91m************ \033[93mSEED ✅ \033[91m************
 \033[93m{"="*50}\033[0m
 
 \033[96m{"-"*50}
-\033[92mBuy future scripts \033[97m@YOUSSEFSOBHY13
+\033[92mBuy future scripts \033[97m@moiyyssnn
 \033[92mJoin for update \033[97mhttps://t.me/kingelnet
 \033[96m{"-"*50}
 \033[0m"""
