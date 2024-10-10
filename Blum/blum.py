@@ -453,7 +453,7 @@ async def get_data(data_file, proxy_file):
         proxies = [i for i in read.splitlines() if len(i) > 5]
     return datas, proxies
 
-d = "YOUSEF"
+d = "MOHSIN"
 async def main():
     banner = f""" {render(f'{d}', colors=['green', 'yellow'], align='center')} """
     arg = argparse.ArgumentParser()
