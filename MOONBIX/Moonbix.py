@@ -21,7 +21,7 @@ from core.info import get_info
 from core.game import process_play_game
 
 
-d = "YOUSEF"
+d = "MOHSIN"
 
 JOONYS = render(f'{d}', colors=['red', 'yellow'], align='center')
 print(JOONYS)
@@ -30,7 +30,7 @@ print("""\033[1;37m
 ╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗                    
 ║\33[0;41m[ ENTER THE TOOL'S PASSWORD ✅ ] \033[0;92m║
 ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝              """)
-password ='chut'
+password ='mkc'
 one = str(input('''❖ - 𝐏𝐀𝐒𝐒𝐖𝐑𝐃 :  ''') )
 if one == password:
     print(f"""
